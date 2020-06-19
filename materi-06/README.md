@@ -29,5 +29,5 @@
 ![g9](g9.jpg)
 
 10. Melakukan running rng ,melihat describe rng dan selanjutnya melakukan update rng serta menjalankannya.
- 
+![g10](g10.jpg)
 
